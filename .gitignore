@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+venv.bak/
+env.bak/
+
+# IDE and Editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+
+# Logs
+*.log
+
+# SQLite database files
+*.sqlite3
+
+# Redis data files (if any)
+*.rdb
+*.aof
+
+# Coverage reports
+.coverage
+*.cover
+
+# Testing
+*.cover
+nosetests.xml
+coverage.xml
+*.log
+.test/
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
+*.bak
+*.tmp
+
+# Environment variable files
+.env
+.env.*
